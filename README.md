@@ -37,15 +37,20 @@ Review & click Create user: <br/>
 <br />
 - Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<h2>Program walk-through on Google Cloud Platform (GCP):</h2>
+
+
 <br />
 <br />
-Program walk-through on Google Cloud Platform (GCP): <br/>
+Fill here: <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
