@@ -31,10 +31,7 @@ Review & click Create user: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-- Click on the user created
-- Then click on **Security credentials** tab
-- Scroll down and go to Access keys section
-- Click on **Create access key**:  <br/>
+- Click on the user created, click on <b>Security credentials</b> tab, Scroll down and go to Access keys section, and Click on Create access key:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
