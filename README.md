@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 Enabling of a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform
-<br/>
+<br />
 
 
 <h2>Languages and Cloud Providers Used</h2>
@@ -31,15 +31,11 @@ Review & click Create user: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-- Click on the user created, click on <b>Security credentials</b> tab, Scroll down and go to Access keys section, and Click on Create access key:  <br/>
+- Click the user created, click <b>Security credentials</b> tab, Scroll down to Access keys section, and Click on <b>Create access key</b>: <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-- Select **Command Line Interface (CLI)** and **I understand the above recommendation and want to proceed to create an access key** checkbox.
-- Click **Next**.
-- Click on **Create access key**
-- Click on **Download .csv file**
-- After download is finished, click on **Done**:  <br/>
+- Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
