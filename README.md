@@ -41,7 +41,6 @@ Review & click Create user: <br/>
 <br />
 <br />
 
-
 <h2>Program walk-through on Google Cloud Platform (GCP):</h2>
 
 <br />
