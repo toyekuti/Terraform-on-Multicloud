@@ -84,6 +84,28 @@ The warning message at the end of terraform apply command execution is not a pro
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h2>SQL Network Configuration:</h2>
+
+- Once the Cloud SQL instance is provisioned, access the Cloud SQL service
+- Click on your Cloud SQL instance.
+- On the left side, under Primary Instance, click on **Connections**.
+- Go to **Networking** tab.
+- Under **Instance IP assignment**, select Private IP to enable.
+    - Under **Associated networking**, select "Default"
+    - Click **Set up Connection**
+    - Click on **Enable API**, to enable Service Networking API (if asked).
+    - Select **Use an automatically allocated IP range in your network**.
+    - Click **Continue**
+    - Click **Create Connection** and **wait a minutes until conclude.** You will see the message: “*Private services access connection for network default
+     has been successfully created.”*
+- Under **Authorized Networks**, click "Add Network".
+- Under **New Network**, enter the following information:
+    - **Name:** Public Access (For testing purposes only)
+    - **Network**: 0.0.0.0/0
+    - Click **Done**.
+    - Click **Save** and ****wait to finish the update.
+    This update may take from **10 to 20 minutes** to finish
+
 <!--
  ```diff
 - text in red
