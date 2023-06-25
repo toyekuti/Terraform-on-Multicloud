@@ -46,11 +46,11 @@ Review & click Create user: <br/>
 - Hands-on files preparation: <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+
 Run the following commands to prepare AWS and GCP environment. Authorize when asked:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+
 Execute the command below:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -58,7 +58,7 @@ Execute the command below:  <br/>
 Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+
 **IMPORTANT (DO NOT SKIP):**
 - **Before executing the Terraform commands, open the Google Editor and update the file tcb_aws_storage.tf replacing the bucket name with an unique name (AWS requires unique bucket names).**
     - Open the **tcb_aws_storage.tf** using Google Editor
@@ -66,7 +66,7 @@ Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API: 
         - Replace **xxxx** with your name initials, using **5 letters** plus **5 random numbers**:
         Example: **luxxy-covid-testing-system-pdf-en-jerod29292**
 <br />
-<br />
+
 Run the following commands to finish provision infrastructure steps:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
