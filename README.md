@@ -60,6 +60,7 @@ Execute the command below:  <br/>
 Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 
 **IMPORTANT (DO NOT SKIP):**
 - **Before executing the Terraform commands, open the Google Editor and update the file tcb_aws_storage.tf replacing the bucket name with an unique name (AWS requires unique bucket names).**
