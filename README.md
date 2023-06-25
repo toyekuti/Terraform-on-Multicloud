@@ -68,7 +68,6 @@ Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API: 
     - On **line 4** of the file **tcb_aws_storage.tf**:
         - Replace **xxxx** with your name initials, using **5 letters** plus **5 random numbers**:
         Example: **luxxy-covid-testing-system-pdf-en-jerod29292**
-<br />
 </p>
 
 <p align="center">
