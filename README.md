@@ -74,9 +74,13 @@ Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API: 
 <p align="center">
 Run the following commands to finish provision infrastructure steps:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
 
 **Attention**: The Cloud SQL database may take **15 to 25 minutes** to create, always check the **CloudShell** and click **Reconnect** when the session expires (the session expires after **5 minutes** of inactivity by default)
 
+<p align="center">
 The **warning** message at the end of **terraform apply** command execution is not a problem, please go ahead:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
