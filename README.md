@@ -103,7 +103,7 @@ The warning message at the end of terraform apply command execution is not a pro
     - **Name:** Public Access (For testing purposes only)
     - **Network**: 0.0.0.0/0
     - Click **Done**.
-    - Click **Save** and ****wait to finish the update.
+    - Click **Save** and wait to finish the update.
     This update may take from **10 to 20 minutes** to finish
 
 <!--
