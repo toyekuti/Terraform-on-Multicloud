@@ -48,11 +48,11 @@ Review & click Create user: <br/>
 Hands-on files preparation: <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br/>
 Run the following commands to prepare AWS and GCP environment. Authorize when asked:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br/>
 Execute the command below:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -68,7 +68,9 @@ Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API: 
         - Replace **xxxx** with your name initials, using **5 letters** plus **5 random numbers**:
         Example: **luxxy-covid-testing-system-pdf-en-jerod29292**
 <br />
+</p>
 
+<p align="center">
 Run the following commands to finish provision infrastructure steps:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
