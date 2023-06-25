@@ -43,7 +43,9 @@ Review & click Create user: <br/>
 - Access GCP Console and open Cloud Shell
 - Upload **accessKeys.csv** and **mission1.zip** hands-on file to GCP Cloud Shell
 - Check if upload has been successfully completed using the command **ls -la**
-- Hands-on files preparation: <br/>
+
+<p align="center">
+Hands-on files preparation: <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
@@ -74,6 +76,7 @@ Run the following commands to finish provision infrastructure steps:  <br/>
 
 The **warning** message at the end of **terraform apply** command execution is not a problem, please go ahead:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <!--
  ```diff
