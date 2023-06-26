@@ -15,10 +15,11 @@ Enabling of a MultiCloud architecture deployment through Terraform, with resou
 - <b>Google Cloud Shell</b>
 
 <h2>Program walk-through on AWS:</h2>
-<!-- https://drive.google.com/file/d/1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN/view?usp=sharing -->
+
 <p align="center">
 Create a programmatic user: <br/>
-<img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="100%"/></a>
+
 <br />
 <br />
 Search & Select AmazonS3FullAccess: <br/>
