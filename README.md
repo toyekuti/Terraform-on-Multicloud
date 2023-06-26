@@ -17,28 +17,27 @@ Enabling of a MultiCloud architecture deployment through Terraform, with resou
 <h2>Program walk-through on AWS:</h2>
 
 <p align="center">
-Create a programmatic user: <br/>
+Create a programmatic user:  <br/>
 <a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
-On Set permissions, Permissions options, click in **Attach policies directly** button: <br/>
+On Set permissions, Permissions options, click in <b>Attach policies directly</b> button:  <br/>
 <a href="https://drive.google.com/uc?export=view&id=1DdqU_Wd1m0TSV5uWwuIhLjHuNvMS5Axr"> <img src="https://drive.google.com/uc?export=view&id=1DdqU_Wd1m0TSV5uWwuIhLjHuNvMS5Axr" width="80%"/></a>
 <br />
 <br />
-Search & select AmazonS3FullAccess: <br/>
+Search & select AmazonS3FullAccess:  <br/>
 <a href="https://drive.google.com/uc?export=view&id=13b4v7v1AmdvbGkZJTgtjtzqWwtuiROV1"> <img src="https://drive.google.com/uc?export=view&id=13b4v7v1AmdvbGkZJTgtjtzqWwtuiROV1" width="80%"/></a>
 <br />
 <br />
-Review & click Create user: <br/>
+Review & click Create user:  <br/>
 <a href="https://drive.google.com/uc?export=view&id=1T-D6z4Sndu72Wbwgv-bhYbrGU483z5pU"> <img src="https://drive.google.com/uc?export=view&id=1T-D6z4Sndu72Wbwgv-bhYbrGU483z5pU" width="80%"/></a>
 <br />
 <br />
 - Click the user created, click <b>Security credentials</b> tab, Scroll down to Access keys section, and Click on <b>Create access key</b>: <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1jteTpPo5PqEZb50cvYQqY84neXHVh04d"> <img src="https://drive.google.com/uc?export=view&id=1jteTpPo5PqEZb50cvYQqY84neXHVh04d" width="80%"/></a>
 <br />
 <br />
-- Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>:  <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+- Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>
 </p>
 
 <h2>Program walk-through on Google Cloud Platform (GCP):</h2>
@@ -49,20 +48,20 @@ Review & click Create user: <br/>
 - Check if upload has been successfully completed using the command **ls -la**
 
 <p align="center">
-Hands-on files preparation: <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+Hands-on files preparation:  <br/>
+<a href="https://drive.google.com/uc?export=view&id=1S7MLAtJEBmlxVSj-tN5PSRMzw_R0GdiF"> <img src="https://drive.google.com/uc?export=view&id=1S7MLAtJEBmlxVSj-tN5PSRMzw_R0GdiF" width="80%"/></a>
 <br />
 <br/>
 Run the following commands to prepare AWS and GCP environment. Authorize when asked:  <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=14zmD1ZFNdyA1XZF_3a37x-5lbU9MqsJj"> <img src="https://drive.google.com/uc?export=view&id=14zmD1ZFNdyA1XZF_3a37x-5lbU9MqsJj" width="80%"/></a>
 <br />
 <br/>
 Execute the command below:  <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=155yYdttP7dUNNRd3lCgnOOwRnJXaK83s"> <img src="https://drive.google.com/uc?export=view&id=155yYdttP7dUNNRd3lCgnOOwRnJXaK83s" width="80%"/></a>
 <br />
 <br />
 Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API:  <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1usL2Lhw_1Bdhdkf2VyguaHPmYfaL3qQS"> <img src="https://drive.google.com/uc?export=view&id=1usL2Lhw_1Bdhdkf2VyguaHPmYfaL3qQS" width="80%"/></a>
 <br />
 <br />
 
@@ -76,7 +75,7 @@ Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API: 
 
 <p align="center">
 Run the following commands to finish provision infrastructure steps:  <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1Y3gzVXx3wFR2Og2B8UoL0IVCokoRxGwO"> <img src="https://drive.google.com/uc?export=view&id=1Y3gzVXx3wFR2Og2B8UoL0IVCokoRxGwO" width="80%"/></a>
 <br />
 <br />
 </p>
@@ -85,7 +84,7 @@ Run the following commands to finish provision infrastructure steps:  <br/>
 
 <p align="center">
 The warning message at the end of terraform apply command execution is not a problem, please go ahead:  <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1N8_gN3HqrN6PraM02S9m9yeW4zp5Z81p"> <img src="https://drive.google.com/uc?export=view&id=1N8_gN3HqrN6PraM02S9m9yeW4zp5Z81p" width="80%"/></a>
 </p>
 
 <h2>SQL Network Configuration:</h2>
