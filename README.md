@@ -18,7 +18,7 @@ Enabling of a MultiCloud architecture deployment through Terraform, with resou
 
 <p align="center">
 Create a programmatic user: <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="100%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 
 <br />
 <br />
