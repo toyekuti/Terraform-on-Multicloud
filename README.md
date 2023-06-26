@@ -37,8 +37,9 @@ Review & click Create user:  <br/>
 <a href="https://drive.google.com/uc?export=view&id=1jteTpPo5PqEZb50cvYQqY84neXHVh04d"> <img src="https://drive.google.com/uc?export=view&id=1jteTpPo5PqEZb50cvYQqY84neXHVh04d" width="80%"/></a>
 <br />
 <br />
-- Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>
 </p>
+
+Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>
 
 <h2>Program walk-through on Google Cloud Platform (GCP):</h2>
 
