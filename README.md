@@ -19,23 +19,22 @@ Enabling of a MultiCloud architecture deployment through Terraform, with resou
 <p align="center">
 Create a programmatic user: <br/>
 <a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
-
 <br />
 <br />
 Search & Select AmazonS3FullAccess: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=13b4v7v1AmdvbGkZJTgtjtzqWwtuiROV1"> <img src="https://drive.google.com/uc?export=view&id=13b4v7v1AmdvbGkZJTgtjtzqWwtuiROV1" width="80%"/></a>
 <br />
 <br />
 Review & click Create user: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
 - Click the user created, click <b>Security credentials</b> tab, Scroll down to Access keys section, and Click on <b>Create access key</b>: <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
 - Select <b>Command Line Interface (CLI)</b> and <b>I understand the above recommendation and want to proceed to create an access key</b> checkbox, Click <b>Next</b>, Click on <b>Create access key</b>, Click on <b>Download .csv file</b> and After downloading click on <b>Done</b>:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 </p>
 
 <h2>Program walk-through on Google Cloud Platform (GCP):</h2>
@@ -47,19 +46,19 @@ Review & click Create user: <br/>
 
 <p align="center">
 Hands-on files preparation: <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br/>
 Run the following commands to prepare AWS and GCP environment. Authorize when asked:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br/>
 Execute the command below:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
 Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
 
@@ -73,7 +72,7 @@ Enable the Container Registry API, Kubernetes Engine API and the Cloud SQL API: 
 
 <p align="center">
 Run the following commands to finish provision infrastructure steps:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
 </p>
@@ -82,7 +81,7 @@ Run the following commands to finish provision infrastructure steps:  <br/>
 
 <p align="center">
 The warning message at the end of terraform apply command execution is not a problem, please go ahead:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 </p>
 
 <h2>SQL Network Configuration:</h2>
