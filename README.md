@@ -18,7 +18,7 @@ Enabling of a MultiCloud architecture deployment through Terraform, with resou
 
 <p align="center">
 Create a programmatic user: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN/view?usp=sharing"/>
 <br />
 <br />
 Search & Select AmazonS3FullAccess: <br/>
