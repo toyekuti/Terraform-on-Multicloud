@@ -21,12 +21,16 @@ Create a programmatic user: <br/>
 <a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
 <br />
 <br />
-Search & Select AmazonS3FullAccess: <br/>
+On Set permissions, Permissions options, click in **Attach policies directly** button: <br/>
+<a href="https://drive.google.com/uc?export=view&id=1DdqU_Wd1m0TSV5uWwuIhLjHuNvMS5Axr"> <img src="https://drive.google.com/uc?export=view&id=1DdqU_Wd1m0TSV5uWwuIhLjHuNvMS5Axr" width="80%"/></a>
+<br />
+<br />
+Search & select AmazonS3FullAccess: <br/>
 <a href="https://drive.google.com/uc?export=view&id=13b4v7v1AmdvbGkZJTgtjtzqWwtuiROV1"> <img src="https://drive.google.com/uc?export=view&id=13b4v7v1AmdvbGkZJTgtjtzqWwtuiROV1" width="80%"/></a>
 <br />
 <br />
 Review & click Create user: <br/>
-<a href="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN"> <img src="https://drive.google.com/uc?export=view&id=1a-xgVDc37bNWsMCYpeZNggLiUL2nQbBN" width="80%"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1T-D6z4Sndu72Wbwgv-bhYbrGU483z5pU"> <img src="https://drive.google.com/uc?export=view&id=1T-D6z4Sndu72Wbwgv-bhYbrGU483z5pU" width="80%"/></a>
 <br />
 <br />
 - Click the user created, click <b>Security credentials</b> tab, Scroll down to Access keys section, and Click on <b>Create access key</b>: <br/>
