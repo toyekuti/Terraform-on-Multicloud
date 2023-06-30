@@ -1,7 +1,7 @@
 <h1>Terraform-on-Multicloud</h1>
 
 <h2>Description</h2>
-Enabling of a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform
+Enabling of a Multicloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform
 <br />
 
 <h2>Languages and Cloud Providers Used</h2>
